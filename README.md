@@ -29,7 +29,9 @@ To execution, just open the 'index.html' file with the files 'style.css' and 'sc
 References:
 
 https://www.youtube.com/watch?v=CldkblcJJTw
+
 https://www.youtube.com/watch?v=eOMnHsVm6vE&t
+
 https://www.youtube.com/watch?v=pVjtv9K3sRM
 
 ######################################################################################################### 
