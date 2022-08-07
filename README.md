@@ -2,7 +2,7 @@
 Calculadora de juros compostos criada como teste para vaga de estágio na empresa Giro.tech
 
 
-######################################################################################## 
+########################################################################################## 
 pt-BR
 Utilizado Visual Studio Code 1.70.0 para escrita do código.
 
@@ -15,7 +15,7 @@ Referências:
 https://www.youtube.com/watch?v=CldkblcJJTw
 https://www.youtube.com/watch?v=eOMnHsVm6vE&t
 https://www.youtube.com/watch?v=pVjtv9K3sRM
-######################################################################################## 
+########################################################################################## 
 en-US
 Used Visual Studio Code 1.70.0 to codding.
 
@@ -28,4 +28,4 @@ References:
 https://www.youtube.com/watch?v=CldkblcJJTw
 https://www.youtube.com/watch?v=eOMnHsVm6vE&t
 https://www.youtube.com/watch?v=pVjtv9K3sRM
-######################################################################################## 
+########################################################################################## 
